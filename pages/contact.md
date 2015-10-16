@@ -1,17 +1,27 @@
 ---
 layout: page
-title: "Contact"
+title: "Contact Us"
 meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+teaser: "Want to get in touch with Walking with Grace? Use the contact form."
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+<form action="http://formspree.io/info@walkingwithgrace.org.uk" method="post">
+  <input type="text" name="name" placeholder="Your Name">
+  <input type="email" name="_replyto" placeholder="Your Email">
+  <textarea name="body" placeholder="Message"></textarea>
+  <input type="submit" value="Send">
+</form>
 
-<div class="panel">
-<iframe width="100%" height="650" frameborder="0" scrolling="no" src="https://phlowmedia.wufoo.com/embed/z7x3k1/"></iframe>
+<div>
+  <h3>Our Address:</h3>
+  <address>
+    Walking with Grace<br>
+    11 Triumph Drive<br>
+    Hebburn<br>
+    Tyne &amp; Wear<br>
+    NE31 1FB<br>
+  </address>
+  Call on: 07557768260
 </div>
 
 
-
- [1]: http://www.wufoo.com/

@@ -4,7 +4,7 @@ subheadline: "Donate"
 title: "Donate to Walking with Grace"
 teaser: "Please support"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "header_grace_2.jpg"
 permalink: "/donate/"
 ---
 <div id="donation-widget-content"></div>

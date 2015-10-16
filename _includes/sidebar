@@ -1,13 +1,19 @@
 <aside>
 	<div class="panel radius">
 		<h3>Sidebar</h3>
-		<p>
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-			Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-		</p>
+		<a href="http://www.cuski.co.uk">
+            <img src="/images/cuski_logo.jpg" alt="Cuski">
+            <caption>Cuski</caption>
+        </a>
+        <p>Supplier of the Mini boos</p>
+        <a href="http://www.neoangelscharity.com">
+            <img src="/images/neoangels.JPG">
+            <caption>NeoAngels</caption>
+        </a>
+        <p>We are a registered charity that supports premature and sick newborn babies and their families on the Neonatal Unit at North Tees Hospital in Stockton.</p>
 	</div>
 
+<!--
   <img class="b30" src="http://dummyimage.com/303x16:9/df4949/e27b3f.png&amp;text=Ugly+Ad+Space" alt="">
 
 
@@ -17,4 +23,5 @@
 			This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a>
 		</p>
 	</div>
+-->
 </aside>

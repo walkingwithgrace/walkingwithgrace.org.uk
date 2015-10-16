@@ -4,6 +4,7 @@
 *   
 {% endcomment %}
 
+<link rel="icon" sizes="64x64" href="{{ site.url }}/assets/img/{{ site.favicon-64x64 }}" />
 
 {% if site.favicon-32x32 %}
 	{% comment %} Regular Old-Skool Favicon: {% endcomment %}

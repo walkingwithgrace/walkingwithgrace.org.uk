@@ -7,21 +7,16 @@
 layout: frontpage
 header:
   image_fullwidth: header_grace_1.jpg
-widget1:
+intro: 
+  title: "Walking with Grace"
+  image: grace_and_her_boo.jpg
+  caption: "Grace and her boo"
+  text: 'Walking with Grace is a charity set up in remembrance of our daughter Grace who sadly past away on the 24th of June 2015 after 47 amazing days with us. The aim of our charity is to support families with babies requiring Intensive Care or High Dependancy Incubated Neonatal Care; initially for babies born at North Tees University Hospital with the gift of a <a href="http://www.cuski.co.uk/cuskiboo/index.php">Cuski Miniboo</a> like the pink one seen in Graces picture. The mini comforter aid in the bonding between parents and babies in incubators and are NHS approved.'
+widget:
   title: "News & Events"
   url: '/blog/'
-  image: unsplash_9-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
-widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
-widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is totally free and licensed under the MIT License. Make it your own and do with it what you want. Grab your copy or clone it at GitHub and start your website with it. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  image: wwg-onbg-logo.png
+  text: 'Find out what has been going on with Walking with Grace over the last few weeks. Here you will also find out about all recent events, blog posts and fundrasing that has been going on aswell as what is next.'
 permalink: /index.html
 ---
 
