@@ -19,7 +19,7 @@ The story of ‘Walking With Grace’ and the Cuski Mini Boo’s.
 
 
 Grace and her twin sister, Bella should have been born at the RVI, Newcastle, but due to there being no intensive care cots available when they decided to arrive, 9 weeks early, their mummy was transferred to North Tees Hospital.
-We knew the RVI provided Cuski comforters for their babies on the neonatal unit, unfortunately North Tess did not provide this service.
+We knew the RVI provided Cuski comforters for their babies on the neonatal unit, unfortunately North Tees did not provide this service.
 The girls Mamma (Maternal Grandmothers chosen name), tried to obtain Cuski’s for them but was unable to from the RVI and in desperation rang Cuski direct.  Here she spoke to the lovely Judy who was upset to hear the girls story and promised to have the Cuski Mini Boos in the post that evening, sending the next day recorded delivery. ![Mini Boo](/images/pink_cuski.png)
 
 And this is where the story begins….
