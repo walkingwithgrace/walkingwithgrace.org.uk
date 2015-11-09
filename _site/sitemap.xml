@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 18 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 19 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
 	<loc>http://www.walkingwithgrace.org.uk/404.html</loc>
 	
-		<lastmod>2015-10-20T23:09:17+01:00</lastmod>
+		<lastmod>2015-11-09T21:50:53+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +22,7 @@
 	<url>
 	<loc>http://www.walkingwithgrace.org.uk/about-us/</loc>
 	
-		<lastmod>2015-10-20T23:09:17+01:00</lastmod>
+		<lastmod>2015-11-09T21:50:53+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -37,7 +37,7 @@
 	<url>
 	<loc>http://www.walkingwithgrace.org.uk/blog/archive/</loc>
 	
-		<lastmod>2015-10-20T23:09:17+01:00</lastmod>
+		<lastmod>2015-11-09T21:50:53+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,7 +54,7 @@
 	<url>
 	<loc>http://www.walkingwithgrace.org.uk/atom.xml</loc>
 	
-		<lastmod>2015-10-20T23:09:17+01:00</lastmod>
+		<lastmod>2015-11-09T21:50:53+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -71,7 +71,7 @@
 	<url>
 	<loc>http://www.walkingwithgrace.org.uk/contact/</loc>
 	
-		<lastmod>2015-10-20T23:09:17+01:00</lastmod>
+		<lastmod>2015-11-09T21:50:53+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -86,7 +86,7 @@
 	<url>
 	<loc>http://www.walkingwithgrace.org.uk/donate/</loc>
 	
-		<lastmod>2015-10-20T23:09:17+01:00</lastmod>
+		<lastmod>2015-11-09T21:50:53+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -101,7 +101,7 @@
 	<url>
 	<loc>http://www.walkingwithgrace.org.uk/feed.xml</loc>
 	
-		<lastmod>2015-10-20T23:09:17+01:00</lastmod>
+		<lastmod>2015-11-09T21:50:53+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -116,7 +116,7 @@
 	<url>
 	<loc>http://www.walkingwithgrace.org.uk/humans.txt</loc>
 	
-		<lastmod>2015-10-20T23:09:17+01:00</lastmod>
+		<lastmod>2015-11-09T21:50:53+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -131,7 +131,7 @@
 	<url>
 	<loc>http://www.walkingwithgrace.org.uk/blog/</loc>
 	
-		<lastmod>2015-10-20T23:09:17+01:00</lastmod>
+		<lastmod>2015-11-09T21:50:53+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -146,7 +146,7 @@
 	<url>
 	<loc>http://www.walkingwithgrace.org.uk/</loc>
 	
-		<lastmod>2015-10-20T23:09:17+01:00</lastmod>
+		<lastmod>2015-11-09T21:50:53+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -161,7 +161,7 @@
 	<url>
 	<loc>http://www.walkingwithgrace.org.uk/robots.txt</loc>
 	
-		<lastmod>2015-10-20T23:09:17+01:00</lastmod>
+		<lastmod>2015-11-09T21:50:53+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -180,7 +180,7 @@
 	<url>
 	<loc>http://www.walkingwithgrace.org.uk/search/</loc>
 	
-		<lastmod>2015-10-20T23:09:17+01:00</lastmod>
+		<lastmod>2015-11-09T21:50:53+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -195,7 +195,7 @@
 	<url>
 	<loc>http://www.walkingwithgrace.org.uk/sitemap.xml</loc>
 	
-		<lastmod>2015-10-20T23:09:17+01:00</lastmod>
+		<lastmod>2015-11-09T21:50:53+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -208,14 +208,104 @@
 
 	
 
+	
+	<url>
+	<loc>http://www.walkingwithgrace.org.uk/blog/page2/</loc>
+	
+		<lastmod>2015-11-09T21:50:53+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
 
-<!-- Posts: 2 links with priority=0.5, changefreq=monthly -->
+
+<!-- Posts: 7 links with priority=0.5, changefreq=monthly -->
+
+	
+	<url>
+	<loc>http://www.walkingwithgrace.org.uk/news/keilder-weekend/</loc>
+	
+		<lastmod>2015-10-05T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://www.walkingwithgrace.org.uk/news/running-vests/</loc>
+	
+		<lastmod>2015-10-02T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://www.walkingwithgrace.org.uk/news/quotes/</loc>
+	
+		<lastmod>2015-10-01T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://www.walkingwithgrace.org.uk/news/santa-sunday/</loc>
+	
+		<lastmod>2015-09-19T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
 
 	
 	<url>
 	<loc>http://www.walkingwithgrace.org.uk/news/first-delivery/</loc>
 	
 		<lastmod>2015-09-14T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://www.walkingwithgrace.org.uk/news/walking-with-grace-logo/</loc>
+	
+		<lastmod>2015-09-09T00:00:00+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
