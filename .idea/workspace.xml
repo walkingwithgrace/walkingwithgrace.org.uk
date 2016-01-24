@@ -1,64 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e1bf25e-1140-4f2d-a7ad-fb0c78cab5d0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/cuski_logo.jpg" afterPath="$PROJECT_DIR$/_site/images/cuski_logo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/finish-1.jpg" afterPath="$PROJECT_DIR$/_site/images/finish-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/finish-2.jpg" afterPath="$PROJECT_DIR$/_site/images/finish-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/grace_and_her_boo.jpg" afterPath="$PROJECT_DIR$/_site/images/grace_and_her_boo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/header_grace_1.jpg" afterPath="$PROJECT_DIR$/_site/images/header_grace_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/header_grace_2.jpg" afterPath="$PROJECT_DIR$/_site/images/header_grace_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/header_grace_3.jpg" afterPath="$PROJECT_DIR$/_site/images/header_grace_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/header_grace_bella_1.jpg" afterPath="$PROJECT_DIR$/_site/images/header_grace_bella_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/header_grace_bella_2.jpg" afterPath="$PROJECT_DIR$/_site/images/header_grace_bella_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/pattern_concrete.jpg" afterPath="$PROJECT_DIR$/_site/images/pattern_concrete.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/pattern_numblog_background-tile.jpg" afterPath="$PROJECT_DIR$/_site/images/pattern_numblog_background-tile.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/pre-race.jpg" afterPath="$PROJECT_DIR$/_site/images/pre-race.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/running-vest-back.jpg" afterPath="$PROJECT_DIR$/_site/images/running-vest-back.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/running-vest-front.jpg" afterPath="$PROJECT_DIR$/_site/images/running-vest-front.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/start-1.jpg" afterPath="$PROJECT_DIR$/_site/images/start-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cuski_logo.jpg" afterPath="$PROJECT_DIR$/images/cuski_logo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/finish-1.jpg" afterPath="$PROJECT_DIR$/images/finish-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/finish-2.jpg" afterPath="$PROJECT_DIR$/images/finish-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/grace_and_her_boo.jpg" afterPath="$PROJECT_DIR$/images/grace_and_her_boo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/header_grace_1.jpg" afterPath="$PROJECT_DIR$/images/header_grace_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/header_grace_2.jpg" afterPath="$PROJECT_DIR$/images/header_grace_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/header_grace_3.jpg" afterPath="$PROJECT_DIR$/images/header_grace_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/header_grace_bella_1.jpg" afterPath="$PROJECT_DIR$/images/header_grace_bella_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/header_grace_bella_2.jpg" afterPath="$PROJECT_DIR$/images/header_grace_bella_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/pattern_concrete.jpg" afterPath="$PROJECT_DIR$/images/pattern_concrete.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/pattern_numblog_background-tile.jpg" afterPath="$PROJECT_DIR$/images/pattern_numblog_background-tile.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/pre-race.jpg" afterPath="$PROJECT_DIR$/images/pre-race.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/running-vest-back.jpg" afterPath="$PROJECT_DIR$/images/running-vest-back.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/running-vest-front.jpg" afterPath="$PROJECT_DIR$/images/running-vest-front.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/start-1.jpg" afterPath="$PROJECT_DIR$/images/start-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/news/2016-01-17-support-from-local-business.md" afterPath="$PROJECT_DIR$/_posts/news/2016-01-17-support-from-local-business.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/404.html" afterPath="$PROJECT_DIR$/_site/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about-us/index.html" afterPath="$PROJECT_DIR$/_site/about-us/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/assets/xslt/atom.xslt" afterPath="$PROJECT_DIR$/_site/assets/xslt/atom.xslt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/assets/xslt/rss.xslt" afterPath="$PROJECT_DIR$/_site/assets/xslt/rss.xslt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/archive/index.html" afterPath="$PROJECT_DIR$/_site/blog/archive/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/index.html" afterPath="$PROJECT_DIR$/_site/blog/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/page2/index.html" afterPath="$PROJECT_DIR$/_site/blog/page2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/contact/index.html" afterPath="$PROJECT_DIR$/_site/contact/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/donate/index.html" afterPath="$PROJECT_DIR$/_site/donate/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/humans.txt" afterPath="$PROJECT_DIR$/_site/humans.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/news/first-delivery/index.html" afterPath="$PROJECT_DIR$/_site/news/first-delivery/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/news/keilder-weekend/index.html" afterPath="$PROJECT_DIR$/_site/news/keilder-weekend/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/news/quotes/index.html" afterPath="$PROJECT_DIR$/_site/news/quotes/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/news/running-vests/index.html" afterPath="$PROJECT_DIR$/_site/news/running-vests/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/news/santa-sunday/index.html" afterPath="$PROJECT_DIR$/_site/news/santa-sunday/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/news/support-from-local-business/index.html" afterPath="$PROJECT_DIR$/_site/news/support-from-local-business/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/news/the-story-so-far/index.html" afterPath="$PROJECT_DIR$/_site/news/the-story-so-far/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/news/walking-with-grace-logo/index.html" afterPath="$PROJECT_DIR$/_site/news/walking-with-grace-logo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/search/index.html" afterPath="$PROJECT_DIR$/_site/search/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/sitemap.xml" afterPath="$PROJECT_DIR$/_site/sitemap.xml" />
-    </list>
+    <list default="true" id="6e1bf25e-1140-4f2d-a7ad-fb0c78cab5d0" name="Default" comment="" />
     <ignored path="walking-with-grace.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -105,13 +48,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config_dev.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config_dev.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config_dev.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25974026">
+            <state vertical-scroll-proportion="0.0">
               <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-12-14-bbc-newcastle.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/news/2015-12-14-bbc-newcastle.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor vertical-scroll-proportion="0.62653565">
+                <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -318,7 +277,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.496875" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.496875" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -479,10 +438,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config_dev.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25974026">
+        <state vertical-scroll-proportion="0.0">
           <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/news/2015-12-14-bbc-newcastle.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.62653565">
+            <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>

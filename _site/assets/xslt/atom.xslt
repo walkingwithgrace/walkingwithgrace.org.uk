@@ -9,8 +9,8 @@
 			<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>Atom Feed (Styled)</title>
-	<link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css" />
-	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://www.walkingwithgrace.org.uk/assets/css/styles_feeling_responsive.css" />
+	<script src="http://www.walkingwithgrace.org.uk/assets/js/modernizr.min.js"></script>
 	
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
   <script>
@@ -33,7 +33,7 @@
 
 	
 
-<link rel="icon" sizes="64x64" href="http://localhost:4000/assets/img/favicon-64x64.png" />
+<link rel="icon" sizes="64x64" href="http://www.walkingwithgrace.org.uk/assets/img/favicon-64x64.png" />
 
 
 
@@ -76,7 +76,7 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Atom Feed (Styled)" />
 	<meta property="og:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette." />
-	<meta property="og:url" content="http://localhost:4000//assets/xslt/atom.xslt" />
+	<meta property="og:url" content="http://www.walkingwithgrace.org.uk//assets/xslt/atom.xslt" />
 	<meta property="og:site_name" content="Walking with Grace" />
 	
 
@@ -85,7 +85,7 @@
 	<!-- Search Engine Optimization -->
 	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt" />
+	<link type="text/plain" rel="author" href="http://www.walkingwithgrace.org.uk/humans.txt" />
 
 	
 </head>
@@ -98,7 +98,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> Walking with Grace</a></h1>
+      <h1 class="show-for-small-only"><a href="http://www.walkingwithgrace.org.uk" class="icon-tree"> Walking with Grace</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -139,7 +139,7 @@
             
             
               <li class="divider"></li>
-              <li><a href="http://localhost:4000/search/">Search</a></li>
+              <li><a href="http://www.walkingwithgrace.org.uk/search/">Search</a></li>
 
             
             
@@ -153,7 +153,7 @@
             
             
               <li class="divider"></li>
-              <li><a href="http://localhost:4000/contact/">Contact Us</a></li>
+              <li><a href="http://www.walkingwithgrace.org.uk/contact/">Contact Us</a></li>
 
             
             
@@ -172,7 +172,7 @@
 
             
             
-              <li><a href="http://localhost:4000/">Home</a></li>
+              <li><a href="http://www.walkingwithgrace.org.uk/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -187,7 +187,7 @@
 
             
             
-              <li><a href="http://localhost:4000/about-us/">About Us</a></li>
+              <li><a href="http://www.walkingwithgrace.org.uk/about-us/">About Us</a></li>
               <li class="divider"></li>
 
             
@@ -202,7 +202,7 @@
 
             
             
-              <li><a href="http://localhost:4000/donate/">Donate</a></li>
+              <li><a href="http://www.walkingwithgrace.org.uk/donate/">Donate</a></li>
               <li class="divider"></li>
 
             
@@ -219,14 +219,14 @@
             
 
               <li class="has-dropdown">
-                <a href="http://localhost:4000/blog/">Blog</a>
+                <a href="http://www.walkingwithgrace.org.uk/blog/">Blog</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="http://localhost:4000/blog/archive/">Blog Archive</a></li>
+                      <li><a href="http://www.walkingwithgrace.org.uk/blog/archive/">Blog Archive</a></li>
                     
                   </ul>
                   
@@ -258,8 +258,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000" title="Walking with Grace – Walking with Grace">
-				<img src="http://localhost:4000/assets/img/rounded_corner_logo.png" alt="Walking with Grace – Walking with Grace">
+			<a id="logo" href="http://www.walkingwithgrace.org.uk" title="Walking with Grace – Walking with Grace">
+				<img src="http://www.walkingwithgrace.org.uk/assets/img/rounded_corner_logo.png" alt="Walking with Grace – Walking with Grace">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -352,12 +352,24 @@
       </div><!-- /#subfooter -->
     </footer>
 
-		<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
+		<script src="http://www.walkingwithgrace.org.uk/assets/js/javascript.min.js"></script>
 
 
 
 
 
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68945205-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
 
 
 

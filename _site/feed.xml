@@ -5,16 +5,16 @@
 	<channel>
 		<title>Walking with Grace</title>
 		<description>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</description>
-		<link>http://localhost:4000/</link>
-		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://www.walkingwithgrace.org.uk/</link>
+		<atom:link href="http://www.walkingwithgrace.org.uk/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Support from Eden Villa Dental Practice</title>
-				<link>http://localhost:4000/news/support-from-local-business/</link>
+				<link>http://www.walkingwithgrace.org.uk/news/support-from-local-business/</link>
 				<pubDate>Sun, 17 Jan 2016 00:00:00 +0000</pubDate>
 				<description>&lt;p&gt;Eden Villas Dental Practice made a donation of £100 to Walking with Grace&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/eden-villas.png&quot; alt=&quot;Eden Villas&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.walkingwithgrace.org.uk/images/eden-villas.png&quot; alt=&quot;Eden Villas&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Many Thanks to Kevin and Shirley McCarthy and all the staff for their kind donation&lt;/p&gt;
 
@@ -25,35 +25,35 @@
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/support-from-local-business/&quot;&gt;&lt;strong&gt;Support from Eden Villa Dental Practice&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/support-from-local-business/&quot;&gt;&lt;strong&gt;Support from Eden Villa Dental Practice&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/bbc-newcastle/&quot;&gt;Walking with grace on the airwaves &amp;middot; &lt;strong&gt;Charlotte meets Anna Foster&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/bbc-newcastle/&quot;&gt;Walking with grace on the airwaves &amp;middot; &lt;strong&gt;Charlotte meets Anna Foster&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/keilder-weekend/&quot;&gt;Running and Riding in Northumberland &amp;middot; &lt;strong&gt;Kielder Weekend&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/keilder-weekend/&quot;&gt;Running and Riding in Northumberland &amp;middot; &lt;strong&gt;Kielder Weekend&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/running-vests/&quot;&gt;Running Vest &amp;middot; &lt;strong&gt;Walking with Grace Running Kit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/running-vests/&quot;&gt;Running Vest &amp;middot; &lt;strong&gt;Walking with Grace Running Kit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/quotes/&quot;&gt;Quotes &amp;middot; &lt;strong&gt;Staff Quotes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/quotes/&quot;&gt;Quotes &amp;middot; &lt;strong&gt;Staff Quotes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/santa-sunday/&quot;&gt;Santa Sunday &amp;middot; &lt;strong&gt;Santa Sunday from the Fountain Inn&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/santa-sunday/&quot;&gt;Santa Sunday &amp;middot; &lt;strong&gt;Santa Sunday from the Fountain Inn&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/first-delivery/&quot;&gt;A Start &amp;middot; &lt;strong&gt;First Delivery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/first-delivery/&quot;&gt;A Start &amp;middot; &lt;strong&gt;First Delivery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/walking-with-grace-logo/&quot;&gt;Branding &amp;middot; &lt;strong&gt;Walking with Grace Logo&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/walking-with-grace-logo/&quot;&gt;Branding &amp;middot; &lt;strong&gt;Walking with Grace Logo&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/the-story-so-far/&quot;&gt;Walking with Grace our journey &amp;middot; &lt;strong&gt;The Story So Far&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/the-story-so-far/&quot;&gt;Walking with Grace our journey &amp;middot; &lt;strong&gt;The Story So Far&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/news/support-from-local-business/</guid>
+				<guid isPermaLink="true">http://www.walkingwithgrace.org.uk/news/support-from-local-business/</guid>
 			</item>
 		
 			<item>
 				<title>Charlotte meets Anna Foster</title>
-				<link>http://localhost:4000/news/bbc-newcastle/</link>
+				<link>http://www.walkingwithgrace.org.uk/news/bbc-newcastle/</link>
 				<pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
 				<description>&lt;p&gt;Yesterday Charlotte visited BBC Newcastle and went on the radio with Anna Foster&lt;/p&gt;
 
@@ -75,23 +75,23 @@
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/support-from-local-business/&quot;&gt;&lt;strong&gt;Support from Eden Villa Dental Practice&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/support-from-local-business/&quot;&gt;&lt;strong&gt;Support from Eden Villa Dental Practice&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/bbc-newcastle/&quot;&gt;Walking with grace on the airwaves &amp;middot; &lt;strong&gt;Charlotte meets Anna Foster&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/bbc-newcastle/&quot;&gt;Walking with grace on the airwaves &amp;middot; &lt;strong&gt;Charlotte meets Anna Foster&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/keilder-weekend/&quot;&gt;Running and Riding in Northumberland &amp;middot; &lt;strong&gt;Kielder Weekend&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/keilder-weekend/&quot;&gt;Running and Riding in Northumberland &amp;middot; &lt;strong&gt;Kielder Weekend&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/running-vests/&quot;&gt;Running Vest &amp;middot; &lt;strong&gt;Walking with Grace Running Kit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/running-vests/&quot;&gt;Running Vest &amp;middot; &lt;strong&gt;Walking with Grace Running Kit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/quotes/&quot;&gt;Quotes &amp;middot; &lt;strong&gt;Staff Quotes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/quotes/&quot;&gt;Quotes &amp;middot; &lt;strong&gt;Staff Quotes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/santa-sunday/&quot;&gt;Santa Sunday &amp;middot; &lt;strong&gt;Santa Sunday from the Fountain Inn&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/santa-sunday/&quot;&gt;Santa Sunday &amp;middot; &lt;strong&gt;Santa Sunday from the Fountain Inn&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/first-delivery/&quot;&gt;A Start &amp;middot; &lt;strong&gt;First Delivery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/first-delivery/&quot;&gt;A Start &amp;middot; &lt;strong&gt;First Delivery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/walking-with-grace-logo/&quot;&gt;Branding &amp;middot; &lt;strong&gt;Walking with Grace Logo&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/walking-with-grace-logo/&quot;&gt;Branding &amp;middot; &lt;strong&gt;Walking with Grace Logo&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/the-story-so-far/&quot;&gt;Walking with Grace our journey &amp;middot; &lt;strong&gt;The Story So Far&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/the-story-so-far/&quot;&gt;Walking with Grace our journey &amp;middot; &lt;strong&gt;The Story So Far&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -100,12 +100,12 @@
 
 &lt;/audio&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/news/bbc-newcastle/</guid>
+				<guid isPermaLink="true">http://www.walkingwithgrace.org.uk/news/bbc-newcastle/</guid>
 			</item>
 		
 			<item>
 				<title>Kielder Weekend</title>
-				<link>http://localhost:4000/news/keilder-weekend/</link>
+				<link>http://www.walkingwithgrace.org.uk/news/keilder-weekend/</link>
 				<pubDate>Mon, 05 Oct 2015 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;So the event of the year has arrived, set off at 10am to get up to Kielder in time to get the bike to the correct place and to the start line. And always time for a pre run photo&lt;/p&gt;
 
@@ -123,23 +123,23 @@
 
 &lt;p&gt;The day was not without worry and panic as Scott had thought it would take him between 3.5-4 hours and when 4 hours was approaching I asked one of the volunteers if they knew where Scott was and the answer was no. I eventually found Dickie who was running the event under Sir Steve Cram, he tracked Scott’s number and then eventually when he was finished he event took us all the way back to our car and gave us an amazing donation of £10 as he is a twin himself.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/news/keilder-weekend/</guid>
+				<guid isPermaLink="true">http://www.walkingwithgrace.org.uk/news/keilder-weekend/</guid>
 			</item>
 		
 			<item>
 				<title>Walking with Grace Running Kit</title>
-				<link>http://localhost:4000/news/running-vests/</link>
+				<link>http://www.walkingwithgrace.org.uk/news/running-vests/</link>
 				<pubDate>Fri, 02 Oct 2015 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;We have had running vests made for the Kielder Run-Bike-Run and Half Marathon and for friend who is doing the Castle Half Marathon at the end of October. They have the logo on and look fantastic. Thank you to M &amp;amp; M embroidery for producing these for us.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/running-vest-front.jpg&quot; alt=&quot;Running Vest Front&quot; width=&quot;300px&quot; /&gt;&lt;img src=&quot;/images/running-vest-back.jpg&quot; alt=&quot;Running Vest Back&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/news/running-vests/</guid>
+				<guid isPermaLink="true">http://www.walkingwithgrace.org.uk/news/running-vests/</guid>
 			</item>
 		
 			<item>
 				<title>Staff Quotes</title>
-				<link>http://localhost:4000/news/quotes/</link>
+				<link>http://www.walkingwithgrace.org.uk/news/quotes/</link>
 				<pubDate>Thu, 01 Oct 2015 00:00:00 +0100</pubDate>
 				<description>&lt;h2 id=&quot;debbie-bryan-ward-matron&quot;&gt;Debbie Bryan (Ward Matron)&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -151,23 +151,23 @@
   &lt;p&gt;I feel that Cuski is a brilliant initiative to promote bonding when close, physical contact isn’t always possible, they have also been positively used as a comfort to baby and in turn allows parents to offer their baby some comfort when they may not be able to be present. Cuski works as a link between skin to skin and helps mummies with stimulation for expressing. Cuski has an added advantage for twins as it can be interchanged between babies and mummy so that they each experience each other’s scents.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/news/quotes/</guid>
+				<guid isPermaLink="true">http://www.walkingwithgrace.org.uk/news/quotes/</guid>
 			</item>
 		
 			<item>
 				<title>Santa Sunday from the Fountain Inn</title>
-				<link>http://localhost:4000/news/santa-sunday/</link>
+				<link>http://www.walkingwithgrace.org.uk/news/santa-sunday/</link>
 				<pubDate>Sat, 19 Sep 2015 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;My gran had mentioned at `church that we were setting up a charity in Grace’s name. This is a church that is very close to all our hearts within the family as my gran and granddad were married there, my mum and dad were married there, my sister and I were both christened there and finally myself and Scott got married there in 2014. Another church go’ers brother along with friends at their local pub do what is known as Santa Sunday event (now twice a year) where they do a fundraising night for a local charity. We were lucky enough to be the selected charity for the Summer event. The patrons of the pub had an amazing event and raised an extraordinary amount of £1175. We were presented with the cheque by Billy Duffy and the Manager of the Fountains Inn plus staff.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/santa_sunday.jpg&quot; alt=&quot;Staff and Patrons Fountain Inn&quot; width=&quot;500px&quot; /&gt;&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/news/santa-sunday/</guid>
+				<guid isPermaLink="true">http://www.walkingwithgrace.org.uk/news/santa-sunday/</guid>
 			</item>
 		
 			<item>
 				<title>First Delivery</title>
-				<link>http://localhost:4000/news/first-delivery/</link>
+				<link>http://www.walkingwithgrace.org.uk/news/first-delivery/</link>
 				<pubDate>Mon, 14 Sep 2015 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;Judy and Suzy from Cuski welcomed the order and on 11th September 2015 the order was delivered.&lt;/p&gt;
 
@@ -197,46 +197,46 @@ Charlotte was thrilled to be able to present the very first Cuski Mini-boo to Ba
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/support-from-local-business/&quot;&gt;&lt;strong&gt;Support from Eden Villa Dental Practice&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/support-from-local-business/&quot;&gt;&lt;strong&gt;Support from Eden Villa Dental Practice&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/bbc-newcastle/&quot;&gt;Walking with grace on the airwaves &amp;middot; &lt;strong&gt;Charlotte meets Anna Foster&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/bbc-newcastle/&quot;&gt;Walking with grace on the airwaves &amp;middot; &lt;strong&gt;Charlotte meets Anna Foster&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/keilder-weekend/&quot;&gt;Running and Riding in Northumberland &amp;middot; &lt;strong&gt;Kielder Weekend&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/keilder-weekend/&quot;&gt;Running and Riding in Northumberland &amp;middot; &lt;strong&gt;Kielder Weekend&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/running-vests/&quot;&gt;Running Vest &amp;middot; &lt;strong&gt;Walking with Grace Running Kit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/running-vests/&quot;&gt;Running Vest &amp;middot; &lt;strong&gt;Walking with Grace Running Kit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/quotes/&quot;&gt;Quotes &amp;middot; &lt;strong&gt;Staff Quotes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/quotes/&quot;&gt;Quotes &amp;middot; &lt;strong&gt;Staff Quotes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/santa-sunday/&quot;&gt;Santa Sunday &amp;middot; &lt;strong&gt;Santa Sunday from the Fountain Inn&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/santa-sunday/&quot;&gt;Santa Sunday &amp;middot; &lt;strong&gt;Santa Sunday from the Fountain Inn&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/first-delivery/&quot;&gt;A Start &amp;middot; &lt;strong&gt;First Delivery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/first-delivery/&quot;&gt;A Start &amp;middot; &lt;strong&gt;First Delivery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/walking-with-grace-logo/&quot;&gt;Branding &amp;middot; &lt;strong&gt;Walking with Grace Logo&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/walking-with-grace-logo/&quot;&gt;Branding &amp;middot; &lt;strong&gt;Walking with Grace Logo&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/the-story-so-far/&quot;&gt;Walking with Grace our journey &amp;middot; &lt;strong&gt;The Story So Far&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/the-story-so-far/&quot;&gt;Walking with Grace our journey &amp;middot; &lt;strong&gt;The Story So Far&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/news/first-delivery/</guid>
+				<guid isPermaLink="true">http://www.walkingwithgrace.org.uk/news/first-delivery/</guid>
 			</item>
 		
 			<item>
 				<title>Walking with Grace Logo</title>
-				<link>http://localhost:4000/news/walking-with-grace-logo/</link>
+				<link>http://www.walkingwithgrace.org.uk/news/walking-with-grace-logo/</link>
 				<pubDate>Wed, 09 Sep 2015 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;When Charlotte and Scott set up the Charity they knew they needed a logo.  A friend of Scott’s at OrangeBus said she would design a logo for them. Emma came up with a number of designs but the very first one was not only similar to a photo Charlotte and Scott had had of the girls feet together but used the colour we all associated as Grace’s colour, hence the Walking With Grace foot logo in deep pink!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/walking-with-grace.png&quot; alt=&quot;Walking with Grace Logo&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/news/walking-with-grace-logo/</guid>
+				<guid isPermaLink="true">http://www.walkingwithgrace.org.uk/news/walking-with-grace-logo/</guid>
 			</item>
 		
 			<item>
 				<title>The Story So Far</title>
-				<link>http://localhost:4000/news/the-story-so-far/</link>
+				<link>http://www.walkingwithgrace.org.uk/news/the-story-so-far/</link>
 				<pubDate>Tue, 01 Sep 2015 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;Grace and her twin sister, Bella should have been born at the RVI, Newcastle, but due to there being no intensive care cots available when they decided to arrive, 9 weeks early, their mummy was transferred to North Tees Hospital.
 We knew the RVI provided Cuski comforters for their babies on the neonatal unit, unfortunately North Tees did not provide this service.
@@ -254,30 +254,30 @@ Initially fundraising and the very generous support of OrangeBus allowed the fir
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/support-from-local-business/&quot;&gt;&lt;strong&gt;Support from Eden Villa Dental Practice&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/support-from-local-business/&quot;&gt;&lt;strong&gt;Support from Eden Villa Dental Practice&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/bbc-newcastle/&quot;&gt;Walking with grace on the airwaves &amp;middot; &lt;strong&gt;Charlotte meets Anna Foster&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/bbc-newcastle/&quot;&gt;Walking with grace on the airwaves &amp;middot; &lt;strong&gt;Charlotte meets Anna Foster&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/keilder-weekend/&quot;&gt;Running and Riding in Northumberland &amp;middot; &lt;strong&gt;Kielder Weekend&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/keilder-weekend/&quot;&gt;Running and Riding in Northumberland &amp;middot; &lt;strong&gt;Kielder Weekend&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/running-vests/&quot;&gt;Running Vest &amp;middot; &lt;strong&gt;Walking with Grace Running Kit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/running-vests/&quot;&gt;Running Vest &amp;middot; &lt;strong&gt;Walking with Grace Running Kit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/quotes/&quot;&gt;Quotes &amp;middot; &lt;strong&gt;Staff Quotes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/quotes/&quot;&gt;Quotes &amp;middot; &lt;strong&gt;Staff Quotes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/santa-sunday/&quot;&gt;Santa Sunday &amp;middot; &lt;strong&gt;Santa Sunday from the Fountain Inn&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/santa-sunday/&quot;&gt;Santa Sunday &amp;middot; &lt;strong&gt;Santa Sunday from the Fountain Inn&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/first-delivery/&quot;&gt;A Start &amp;middot; &lt;strong&gt;First Delivery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/first-delivery/&quot;&gt;A Start &amp;middot; &lt;strong&gt;First Delivery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/walking-with-grace-logo/&quot;&gt;Branding &amp;middot; &lt;strong&gt;Walking with Grace Logo&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/walking-with-grace-logo/&quot;&gt;Branding &amp;middot; &lt;strong&gt;Walking with Grace Logo&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/the-story-so-far/&quot;&gt;Walking with Grace our journey &amp;middot; &lt;strong&gt;The Story So Far&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.walkingwithgrace.org.uk/news/the-story-so-far/&quot;&gt;Walking with Grace our journey &amp;middot; &lt;strong&gt;The Story So Far&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/news/the-story-so-far/</guid>
+				<guid isPermaLink="true">http://www.walkingwithgrace.org.uk/news/the-story-so-far/</guid>
 			</item>
 		
 	</channel>
