@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Walking with Grace</title>
-	<updated>2016-01-17T22:29:33+00:00</updated>
+	<updated>2016-01-24T22:14:59+00:00</updated>
 
 	<subtitle>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</subtitle>
 
@@ -22,7 +22,7 @@
 	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
 	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
 
-	<generator uri="http://jekyllrb.com" version="2.5.3">Jekyll</generator>
+	<generator uri="http://jekyllrb.com" version="3.0.2">Jekyll</generator>
 
 	
 		<entry>
@@ -46,7 +46,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/eden-villas.png&quot; alt=&quot;Eden Villas&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Many Thanks to Kevin and Shirly McCarthy and all the staff for their kind donation&lt;/p&gt;
+&lt;p&gt;Many Thanks to Kevin and Shirley McCarthy and all the staff for their kind donation&lt;/p&gt;
 
 &lt;h2 class=&quot;t60&quot; id=&quot;other-post&quot;&gt;Other Post&lt;/h2&gt;
 
@@ -56,6 +56,8 @@
 
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/support-from-local-business/&quot;&gt;&lt;strong&gt;Support from Eden Villa Dental Practice&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/bbc-newcastle/&quot;&gt;Walking with grace on the airwaves &amp;middot; &lt;strong&gt;Charlotte meets Anna Foster&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/keilder-weekend/&quot;&gt;Running and Riding in Northumberland &amp;middot; &lt;strong&gt;Kielder Weekend&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
@@ -91,6 +93,85 @@
 			
 
 			<published>2016-01-17T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/news/bbc-newcastle/</id>
+			<title>Charlotte meets Anna Foster</title>
+			<link href="http://localhost:4000/news/bbc-newcastle/" rel="alternate" type="text/html" title="Charlotte meets Anna Foster" />
+			<updated>2015-12-14T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>scott</name>
+					
+					
+					
+				</author>
+			
+			<summary>Charlotte meets Anna Foster.</summary>
+			<content type="html" xml:base="http://localhost:4000/news/bbc-newcastle/">&lt;p&gt;Yesterday Charlotte visited BBC Newcastle and went on the radio with Anna Foster&lt;/p&gt;
+
+&lt;audio controls=&quot;controls&quot;&gt;&lt;source src=&quot;/content/bbc-newcastle-interview.mp3 &quot; /&gt;&lt;audio /&gt;
+
+
+
+
+## Other Post
+{: .t60 }
+
+
+
+
+
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/support-from-local-business/&quot;&gt;&lt;strong&gt;Support from Eden Villa Dental Practice&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/bbc-newcastle/&quot;&gt;Walking with grace on the airwaves &amp;middot; &lt;strong&gt;Charlotte meets Anna Foster&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/keilder-weekend/&quot;&gt;Running and Riding in Northumberland &amp;middot; &lt;strong&gt;Kielder Weekend&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/running-vests/&quot;&gt;Running Vest &amp;middot; &lt;strong&gt;Walking with Grace Running Kit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/quotes/&quot;&gt;Quotes &amp;middot; &lt;strong&gt;Staff Quotes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/santa-sunday/&quot;&gt;Santa Sunday &amp;middot; &lt;strong&gt;Santa Sunday from the Fountain Inn&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/first-delivery/&quot;&gt;A Start &amp;middot; &lt;strong&gt;First Delivery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/walking-with-grace-logo/&quot;&gt;Branding &amp;middot; &lt;strong&gt;Walking with Grace Logo&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/the-story-so-far/&quot;&gt;Walking with Grace our journey &amp;middot; &lt;strong&gt;The Story So Far&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+
+&lt;/audio&gt;
+</content>
+
+			
+				<category term="news" />
+			
+			
+				<category term="blog" />
+			
+				<category term="content" />
+			
+				<category term="post" />
+			
+				<category term="post format" />
+			
+
+			<published>2015-12-14T00:00:00+00:00</published>
 		</entry>
 	
 		<entry>
@@ -310,6 +391,8 @@ Charlotte was thrilled to be able to present the very first Cuski Mini-boo to Ba
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/support-from-local-business/&quot;&gt;&lt;strong&gt;Support from Eden Villa Dental Practice&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/bbc-newcastle/&quot;&gt;Walking with grace on the airwaves &amp;middot; &lt;strong&gt;Charlotte meets Anna Foster&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/keilder-weekend/&quot;&gt;Running and Riding in Northumberland &amp;middot; &lt;strong&gt;Kielder Weekend&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/running-vests/&quot;&gt;Running Vest &amp;middot; &lt;strong&gt;Walking with Grace Running Kit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -418,6 +501,8 @@ Initially fundraising and the very generous support of OrangeBus allowed the fir
 
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/support-from-local-business/&quot;&gt;&lt;strong&gt;Support from Eden Villa Dental Practice&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/bbc-newcastle/&quot;&gt;Walking with grace on the airwaves &amp;middot; &lt;strong&gt;Charlotte meets Anna Foster&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/news/keilder-weekend/&quot;&gt;Running and Riding in Northumberland &amp;middot; &lt;strong&gt;Kielder Weekend&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     

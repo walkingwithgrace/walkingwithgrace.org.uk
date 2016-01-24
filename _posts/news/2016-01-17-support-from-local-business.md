@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: 
+subheadline:
 title:  "Support from Eden Villa Dental Practice"
 teaser: "Support from Eden Villa Dental Practice."
 meta_teaser: "Support from Eden Villa Dental Practice"
@@ -18,7 +18,7 @@ Eden Villas Dental Practice made a donation of £100 to Walking with Grace
 
 ![Eden Villas]({{ site.urlimg }}eden-villas.png)
 
-Many Thanks to Kevin and Shirly McCarthy and all the staff for their kind donation
+Many Thanks to Kevin and Shirley McCarthy and all the staff for their kind donation
 
 
 ## Other Post
