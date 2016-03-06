@@ -27,7 +27,7 @@
   
   
 	
-	<meta name="description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette." />
+	<meta name="description" content="Walking with Grace - A charitable trust that supports the Neonatal unit at Stockton North Tees University Hospital" />
 	
 	
 
@@ -75,7 +75,7 @@
 	<meta property="og:locale" content="en_EN" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Atom Feed (Styled)" />
-	<meta property="og:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette." />
+	<meta property="og:description" content="Walking with Grace - A charitable trust that supports the Neonatal unit at Stockton North Tees University Hospital" />
 	<meta property="og:url" content="http://www.walkingwithgrace.org.uk//assets/xslt/atom.xslt" />
 	<meta property="og:site_name" content="Walking with Grace" />
 	
