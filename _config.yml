@@ -27,7 +27,7 @@ author: scottfeltham
 url: 'http://www.walkingwithgrace.org.uk'
 baseurl: ''
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
